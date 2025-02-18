@@ -40,7 +40,7 @@ const date = moment().format('DD/MM/YYYY');
 > https://github.com/Mustaffamkm/MUSTAFFAMK-
 
 *MUSTAFFA 𝐂𝐇𝐀𝐍𝐍𝐄𝐋*
-> https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T
+> https://whatsapp.com/channel/0029VacgxK96hENmSRMRxx1r
 ⁠
 ╭───────────────────❒
 │👌 *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
